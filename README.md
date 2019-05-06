@@ -10,5 +10,6 @@ Libraries used-
 <h3>Instructions for Running</h3>
 1. Make sure you have the necessary libaries installed.<br>
 2. Run the 'main.py' file as-<br>
-```python3 main.py
+```
+python3 main.py
 ```

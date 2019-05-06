@@ -1,4 +1,8 @@
-# mura_ensemble_neuralnet
+# MURA Ensemble Neural Network Classifier
+
+###Authors
+Md Sahil Hassan<br>
+Mithun Ghosh<br>
 
 This repository contains a Neural Network based Ensemble model for classifying MURA humerus dataset.
 

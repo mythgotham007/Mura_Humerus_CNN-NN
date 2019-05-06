@@ -1,3 +1,14 @@
+"""This is an Ensamble based Neural Network model
+for implementation of Anomaly detection and classification
+on the Humerus data samples of the MURA dataset by Stamford
+Machine Learning Group."""
+
+"""Authors:
+Md Sahil Hassan (Dept. of Electrical & Computer Engineering)
+Mithun Ghosh (Dept. of Systems & Industrial Engineering)
+Universiy of Arizona"""
+
+
 from keras.layers import Input, Dense
 from keras.models import Model
 import numpy as np

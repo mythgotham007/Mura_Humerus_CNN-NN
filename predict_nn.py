@@ -1,3 +1,5 @@
+import numpy as np
+
 """Function for Predicting, and calculating error"""   #approved
 def predict_nn(shallow_nn, x, y):
     pred = shallow_nn.predict(x)

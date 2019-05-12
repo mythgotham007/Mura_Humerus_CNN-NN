@@ -2,10 +2,9 @@
 
 ### Authors
 
-Md Sahil Hassan<br>
 Mithun Ghosh<br>
 
-This repository contains a Neural Network based Ensemble model for classifying MURA humerus dataset.
+This repository contains a Deep Neural Network and Convolution Neural Network(CNN) based Ensemble model for classifying MURA humerus dataset.
 
 Libraries used-
 1. Keras<br>
@@ -18,3 +17,6 @@ Libraries used-
 '''
 python3 main.py
 '''
+
+
+ 

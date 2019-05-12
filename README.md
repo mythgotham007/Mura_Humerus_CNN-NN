@@ -1,4 +1,4 @@
-# MURA Ensemble Neural Network Classifier
+# MURA Ensemble Deep Neural Network & Convolution Neural Network Classifier
 
 ### Authors
 
